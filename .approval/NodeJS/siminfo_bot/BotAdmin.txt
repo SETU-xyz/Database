@@ -1,3 +1,2 @@
-481544d6-dccf-4ea7-9625-feaf8ae6dbd7 = "Tasrif"
-b5420672-ed46-4f1b-a4f5-12ba9a08fdf4 = "Setu"
-e331a897-db3f-4785-80f3-38f9336ae627 = "Asif"
+481544d6-dccf-4ea7-9625-feaf8ae6dbd7 = "v2"
+019d2ac6-e9a0-458f-84c7-580772e03299 = "Setu"
